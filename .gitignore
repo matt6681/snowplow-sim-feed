@@ -1,0 +1,5 @@
+# Ignore everything by default
+*
+# Allow only the simulation feed and git housekeeping
+!.gitignore
+!SnowPlow_Simulation.csv
